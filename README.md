@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
     <meta charset=  <title>منصة مضيف أهل العباء</title>
@@ -291,4 +290,3 @@
     </script>
 </body>
 </html>"UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
