@@ -53,7 +53,8 @@
 
         /* Watermark logo matching uploaded image design */
         .bg-logo-watermark {
-            background-image: url('image_be668db9-removebg-preview_2.png');
+            background-image: url('<img width="691" height="361" alt="image_be668db9-removebg-preview" src="https://github.com/user-attachments/assets/0b887f64-f01b-4710-8b51-75fe2ea30420" />
+');
             background-repeat: no-repeat;
             background-position: center center;
             background-size: min(85vw, 650px);
