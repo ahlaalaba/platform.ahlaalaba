@@ -1,6 +1,6 @@
 <html lang="ar" dir="rtl">
 <head>
-    <meta charset=  <title>منصة مضيف أهل العباء</title>
+  <title>منصة مضيف أهل العباء</title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Google Fonts -->
