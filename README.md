@@ -1,7 +1,6 @@
-<img width="691" height="361" alt="image_be668db9-removebg-preview" src="https://github.com/user-attachments/assets/acb04fbe-deb9-4c03-bbaa-e8eea5cb5b55" />
 <html lang="ar" dir="rtl">
 <head>
-   <title>منصة مضيف أهل العباء</title>
+    <meta charset=  <title>منصة مضيف أهل العباء</title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Google Fonts -->
@@ -54,8 +53,7 @@
 
         /* Watermark logo matching uploaded image design */
         .bg-logo-watermark {
-            background-image: url('" src="https://github.com/user-attachments/assets/fb504316-8bd7-4996-8903-bdae0be013a6" />
-');
+            background-image: url('image_be668db9-removebg-preview_2.png');
             background-repeat: no-repeat;
             background-position: center center;
             background-size: min(85vw, 650px);
@@ -291,3 +289,5 @@
         }
     </script>
 </body>
+</html>"UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
