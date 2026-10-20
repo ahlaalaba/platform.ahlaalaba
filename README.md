@@ -1,3 +1,4 @@
+<img width="691" height="361" alt="image_be668db9-removebg-preview" src="https://github.com/user-attachments/assets/acb04fbe-deb9-4c03-bbaa-e8eea5cb5b55" />
 <html lang="ar" dir="rtl">
 <head>
    <title>منصة مضيف أهل العباء</title>
@@ -53,7 +54,8 @@
 
         /* Watermark logo matching uploaded image design */
         .bg-logo-watermark {
-            background-image: url('image_be668db9-removebg-preview_2.png');
+            background-image: url('<img width="691" height="361" alt="image_be668db9-removebg-preview" src="https://github.com/user-attachments/assets/fb504316-8bd7-4996-8903-bdae0be013a6" />
+');
             background-repeat: no-repeat;
             background-position: center center;
             background-size: min(85vw, 650px);
