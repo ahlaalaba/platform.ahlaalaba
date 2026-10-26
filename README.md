@@ -230,28 +230,7 @@
                 </div>
             </button>
 
-            <!-- 5. موقع البلاغ مشاكل (Direct Link / No passcode) -->
-            <a href="https://ahlaalaba.github.io/report/#%D9%85%D8%B6%D9%8A%D9%81-%D8%A3%D9%87%D9%84-%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%A1" target="_blank" rel="noopener noreferrer" 
-               class="glass-card glass-card-hover p-4 md:p-5 rounded-2xl flex items-center justify-between group border-rose-500/30">
-                <div class="flex items-center gap-4">
-                    <div class="w-12 h-12 rounded-2xl bg-rose-500/10 text-rose-400 flex items-center justify-center text-xl shrink-0 border border-rose-500/30 group-hover:bg-rose-500 group-hover:text-white transition-colors">
-                        <i class="fa-solid fa-triangle-exclamation"></i>
-                    </div>
-                    <div>
-                        <h3 class="text-sm md:text-base font-bold text-white group-hover:text-rose-300 transition-colors">
-                            موقع البلاغ مشاكل
-                        </h3>
-                        <p class="text-xs text-slate-400 mt-0.5">تقديم بلاغات عن المشاكل التقنية والإنذارات (لا يوجد كلمة سر)</p>
-                    </div>
-                </div>
-                <div class="flex items-center gap-2">
-                    <span class="text-[11px] bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-2.5 py-1 rounded-full font-semibold hidden sm:inline-block">وصول مباشر</span>
-                    <i class="fa-solid fa-arrow-left text-sm text-slate-500 group-hover:text-rose-400 group-hover:-translate-x-1 transition-all"></i>
-                </div>
-            </a>
-
-        </div>
-
+            <!-- 5. موقع البلاغ مشاك
     </main>
 
     <!-- Footer -->
