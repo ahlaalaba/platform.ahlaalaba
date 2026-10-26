@@ -364,5 +364,3 @@
             }
         };
     </script>
-</body>
-</html>
